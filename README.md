@@ -15,4 +15,4 @@ Today we are lerning
 - Third item
 
 ## Link a page
-[Markdown Guid](https://www.markdownguide.org/cheat-sheet/)
+[Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
