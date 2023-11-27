@@ -19,4 +19,4 @@ Today we are lerning
 
 ## image
 
-![Landschaft]([)](https://www.americanexpress.com/de-de/amexcited/media/webp/de-de/amexcited/media/cache/article_intro_hero/cms/2022/07/landschaft-slowenien-titelbild.webp?625852)https://www.americanexpress.com/de-de/amexcited/media/webp/de-de/amexcited/media/cache/article_intro_hero/cms/2022/07/landschaft-slowenien-titelbild.webp?625852
+![Landschaft](https://www.americanexpress.com/de-de/amexcited/media/webp/de-de/amexcited/media/cache/article_intro_hero/cms/2022/07/landschaft-slowenien-titelbild.webp?625852)
