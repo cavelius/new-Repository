@@ -28,8 +28,8 @@ Today we are lerning
 das hier ist ein `code`
 
 ### Block code
-´´´js
+```js
 let cohort = "Coriander"
 let students = 17
-´´´
+```
 
