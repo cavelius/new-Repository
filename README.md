@@ -16,3 +16,7 @@ Today we are lerning
 
 ## Link a page
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+
+## image
+
+![Landschaft]([)](https://www.americanexpress.com/de-de/amexcited/media/webp/de-de/amexcited/media/cache/article_intro_hero/cms/2022/07/landschaft-slowenien-titelbild.webp?625852)https://www.americanexpress.com/de-de/amexcited/media/webp/de-de/amexcited/media/cache/article_intro_hero/cms/2022/07/landschaft-slowenien-titelbild.webp?625852
